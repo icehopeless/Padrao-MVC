@@ -1,4 +1,5 @@
-# Aplicação do Padrão de Projeto MVC (Model, View, Controller) em uma simples aplicação em java
+## MVC em Java
+Aplicação do Padrão de Projeto MVC (Model, View, Controller) em uma simples aplicação em java
 
 ## Exemplos
 <img src="exemplo.png" alt= "icon"> <br> <br>
